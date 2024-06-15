@@ -1,0 +1,1567 @@
+I0530 15:31:15.161927 118939 exec.cpp:162] Version: 1.5.0
+I0530 15:31:15.164254 118942 exec.cpp:236] Executor registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 15:31:15.164793 118945 executor.cpp:121] Registered docker executor on 172.16.3.204
+I0530 15:31:15.165349 118943 executor.cpp:161] Starting task base_sms-service.95dd17c3-1e56-11ef-9098-70b3d5800002
+I0530 16:09:37.308777 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 16:09:40.192481 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 16:09:40.197849 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 16:09:40.198310 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0530 17:09:33.806699 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 17:09:36.367848 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 17:09:36.399169 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 17:09:36.399523 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0530 18:09:39.091332 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 18:09:42.040378 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 18:09:42.070204 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 18:09:42.070585 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0530 19:09:35.346993 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 19:09:38.125222 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 19:09:38.142938 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 19:09:38.143292 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0530 20:09:36.000355 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 20:09:38.876654 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 20:09:38.902108 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 20:09:38.902160 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0530 21:09:32.122438 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 21:09:34.690184 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 21:09:34.713744 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 21:09:34.714265 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0530 22:09:34.864943 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 22:09:37.743106 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 22:09:37.754750 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 22:09:37.754823 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0530 23:09:32.046108 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 23:09:34.838032 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 23:09:34.844718 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0530 23:09:34.845047 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 00:09:31.840128 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 00:09:34.713567 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 00:09:34.720255 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 00:09:34.720351 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 01:09:32.183900 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 01:09:34.544292 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 01:09:34.557351 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 01:09:34.557404 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 02:09:32.100399 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 02:09:34.696887 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 02:09:34.720898 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 02:09:34.720959 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 03:09:28.291750 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 03:09:30.190335 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 03:09:30.221202 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 03:09:30.221278 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 04:09:42.046092 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 04:09:44.431696 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 04:09:44.458803 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 04:09:44.458863 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 05:09:30.499472 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 05:09:32.979948 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 05:09:33.005056 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 05:09:33.005120 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 06:09:37.286653 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 06:09:39.743088 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 06:09:39.766453 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 06:09:39.766508 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 07:09:32.362612 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 07:09:34.866206 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 07:09:34.889045 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 07:09:34.889110 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 08:09:39.275115 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 08:09:41.865136 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 08:09:41.870371 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 08:09:41.870422 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 09:09:33.891322 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 09:09:46.655601 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 09:09:46.697394 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 09:09:46.697470 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 10:09:40.638676 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 10:09:43.394099 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 10:09:43.422158 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 10:09:43.422243 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 11:09:36.063998 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 11:09:39.160533 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 11:09:39.174940 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 11:09:39.175000 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 12:09:35.202332 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 12:09:38.020089 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 12:09:38.040859 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 12:09:38.040918 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 13:09:34.637732 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 13:09:37.179459 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 13:09:37.199365 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 13:09:37.199414 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 14:09:36.235836 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 14:09:38.919281 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 14:09:38.930658 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 14:09:38.930727 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 15:09:36.568017 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 15:09:39.355994 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 15:09:39.364850 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 15:09:39.364910 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 16:09:34.798030 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 16:09:37.698398 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 16:09:37.706655 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 16:09:37.706704 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 17:09:34.991369 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 17:09:37.431608 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 17:09:37.460320 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 17:09:37.460407 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 18:09:36.110298 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 18:09:39.119799 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 18:09:39.148160 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 18:09:39.148217 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 19:09:37.834220 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 19:09:40.606518 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 19:09:40.608629 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0531 19:09:40.617084 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 19:09:40.617132 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 20:09:34.599390 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 20:09:37.412392 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 20:09:37.439755 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 20:09:37.439812 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 21:09:35.633205 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 21:09:38.053117 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 21:09:38.080955 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 21:09:38.081018 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 22:09:35.305177 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 22:09:37.888109 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 22:09:37.906872 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 22:09:37.906932 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0531 23:09:31.420472 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 23:09:33.895421 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 23:09:33.902887 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0531 23:09:33.902945 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 00:09:33.894490 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 00:09:36.492275 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 00:09:36.502094 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 00:09:36.502144 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 01:09:31.418327 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 01:09:33.761519 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 01:09:33.767642 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 01:09:33.767717 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 02:09:29.861111 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 02:09:32.267601 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 02:09:32.297469 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 02:09:32.297539 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 03:09:29.482156 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 03:09:32.256309 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 03:09:32.266852 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 03:09:32.266902 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 04:09:43.927685 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 04:09:46.558459 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 04:09:46.592342 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 04:09:46.592396 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 05:09:28.395677 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 05:09:31.056922 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 05:09:31.077845 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 05:09:31.077904 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 06:09:31.738788 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 06:09:34.413355 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 06:09:34.425657 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 06:09:34.425719 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 07:09:31.613348 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 07:09:34.347649 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 07:09:34.357059 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 07:09:34.357107 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 08:09:35.629653 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 08:09:38.376960 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 08:09:38.395198 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 08:09:38.395264 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 09:09:36.238057 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 09:09:38.983850 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 09:09:39.009007 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 09:09:39.009057 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 10:09:37.725968 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 10:09:40.135577 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 10:09:40.169921 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 10:09:40.169984 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 11:09:38.375784 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 11:09:41.219708 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 11:09:41.258181 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 11:09:41.258260 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 12:09:37.718022 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 12:09:40.320521 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 12:09:40.349588 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 12:09:40.349643 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 13:09:38.238103 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 13:09:41.197968 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 13:09:41.203451 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 13:09:41.203505 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 14:09:36.970281 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 14:09:39.378242 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 14:09:39.415150 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 14:09:39.415222 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 15:09:35.979437 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 15:09:38.436719 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 15:09:38.467430 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 15:09:38.467489 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 16:09:38.204000 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 16:09:40.980463 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 16:09:41.006675 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 16:09:41.006740 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 17:09:39.117484 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 17:09:41.606137 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 17:09:41.639093 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 17:09:41.639145 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 18:09:36.163727 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 18:09:38.949309 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 18:09:38.957655 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 18:09:38.957710 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 19:09:36.480901 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 19:09:38.927013 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 19:09:38.935457 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 19:09:38.935508 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 20:09:37.554895 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 20:09:40.213919 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 20:09:40.218799 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 20:09:40.218842 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 21:09:32.965281 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 21:09:36.749639 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 21:09:36.754076 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 21:09:36.754129 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 22:09:34.285286 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 22:09:36.544121 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 22:09:36.549635 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 22:09:36.549681 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0601 23:09:34.231284 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 23:09:36.786250 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 23:09:36.794556 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0601 23:09:36.794627 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 00:09:31.038563 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 00:09:33.685195 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 00:09:33.690804 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 00:09:33.690853 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 01:10:21.892493 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 01:10:24.554946 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 01:10:24.573029 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 01:10:24.573101 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 02:09:29.031391 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 02:09:31.325476 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 02:09:31.330188 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 02:09:31.330253 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 03:09:27.088430 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 03:09:29.753244 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 03:09:29.761112 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 03:09:29.761158 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 04:09:36.750907 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 04:09:39.344599 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 04:09:39.351861 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 04:09:39.351915 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 05:09:29.904093 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 05:09:32.562161 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 05:09:32.574044 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 05:09:32.574088 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 06:09:29.360524 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 06:09:31.815335 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 06:09:31.823346 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 06:09:31.823386 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 07:09:32.713817 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 07:09:35.000525 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 07:09:35.004673 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 07:09:35.004719 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 08:09:33.188565 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 08:09:35.865787 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 08:09:35.886340 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 08:09:35.886385 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 09:09:35.207552 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 09:09:37.849910 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 09:09:37.851929 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 09:09:37.851970 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 10:09:36.003588 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 10:09:38.568804 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 10:09:38.574395 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 10:09:38.574453 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 11:09:34.735364 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 11:09:37.325454 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 11:09:37.332336 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 11:09:37.332391 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 12:09:37.947554 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 12:09:40.636066 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 12:09:40.640074 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 12:09:40.640122 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 13:09:35.481221 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 13:09:37.905100 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 13:09:37.910832 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 13:09:37.910881 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 14:09:36.417997 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 14:09:39.103164 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 14:09:39.111702 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 14:09:39.111763 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 15:09:37.747123 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 15:09:40.344561 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 15:09:40.349417 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 15:09:40.349462 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 16:09:37.452513 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 16:09:39.995874 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 16:09:40.005659 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 16:09:40.005717 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 17:09:34.551882 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 17:09:37.129856 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 17:09:37.136348 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 17:09:37.136401 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 18:09:34.108183 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 18:09:36.588057 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 18:09:36.599406 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 18:09:36.599453 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 19:09:45.007980 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 19:09:47.377373 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 19:09:47.385162 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 19:09:47.385211 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 20:09:40.699440 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 20:09:43.507478 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 20:09:43.510488 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 20:09:43.510547 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 21:09:33.244263 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 21:09:35.904807 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 21:09:35.919396 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 21:09:35.919448 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 22:09:34.382712 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 22:09:36.736140 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 22:09:36.749768 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 22:09:36.749825 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0602 23:09:35.192023 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 23:09:37.878898 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 23:09:37.883083 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0602 23:09:37.883134 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 00:09:35.367542 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 00:09:38.101501 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 00:09:38.106710 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 00:09:38.106761 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 01:09:32.022924 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 01:09:43.396713 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 01:09:43.413432 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 01:09:43.413496 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 02:09:32.483142 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 02:10:04.584326 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 02:10:04.607513 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 02:10:04.607580 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 03:09:37.117254 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 03:09:38.957324 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 03:09:38.972548 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 03:09:38.972589 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 04:09:39.298699 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 04:09:41.817605 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 04:09:41.844406 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 04:09:41.844455 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 05:09:28.160617 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 05:09:30.829572 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 05:09:30.852463 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 05:09:30.852519 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 06:09:31.370523 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 06:09:33.677975 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 06:09:33.695847 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 06:09:33.695890 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 07:09:35.957952 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 07:09:38.621830 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 07:09:38.647094 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 07:09:38.647141 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 08:09:35.477461 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 08:09:38.172308 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 08:09:38.194849 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 08:09:38.194908 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 09:09:34.556581 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 09:09:38.029963 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 09:09:38.054386 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 09:09:38.054441 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 10:09:36.834719 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 10:09:38.966593 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 10:09:38.988911 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 10:09:38.988965 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 11:09:33.453056 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 11:09:36.319322 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 11:09:36.339583 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 11:09:36.339670 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 12:09:41.504026 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 12:09:43.289650 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 12:09:43.297067 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 12:09:43.297117 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 13:09:35.213572 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 13:09:37.592177 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 13:09:37.612043 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 13:09:37.612103 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 14:09:35.975510 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 14:09:38.155278 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 14:09:38.176422 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 14:09:38.176481 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 15:09:35.000422 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 15:09:37.491350 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 15:09:37.505090 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 15:09:37.505154 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 16:09:35.260056 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 16:09:37.774729 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 16:09:37.785867 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 16:09:37.785919 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 17:09:37.127959 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 17:09:39.861301 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 17:09:39.867903 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 17:09:39.867950 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 18:09:37.767398 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 18:09:40.589567 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 18:09:40.614138 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 18:09:40.614205 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 19:09:35.197585 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 19:09:37.884579 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 19:09:37.897303 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 19:09:37.897353 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 20:09:38.758824 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 20:09:47.770548 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 20:09:47.796825 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 20:09:47.796887 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 21:09:38.033727 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 21:09:40.832387 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 21:09:40.841756 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 21:09:40.841816 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 22:09:34.447263 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 22:10:20.438665 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 22:10:20.492969 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 22:10:20.493032 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0603 23:09:34.662313 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 23:09:37.269855 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 23:09:37.273639 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0603 23:09:37.273684 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 00:09:30.547982 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 00:09:32.837273 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 00:09:32.837383 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0604 00:09:32.862679 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 00:09:32.862725 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 01:09:33.431219 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 01:09:35.909296 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 01:09:35.923017 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 01:09:35.923063 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 02:09:32.041962 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 02:09:34.524025 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 02:09:34.537659 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 02:09:34.537704 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 03:09:28.341707 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 03:09:30.631628 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 03:09:30.663602 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 03:09:30.663678 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 04:09:35.961472 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 04:09:38.199579 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 04:09:38.223537 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 04:09:38.223587 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 05:09:30.745486 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 05:09:33.104432 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 05:09:33.125133 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 05:09:33.125177 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 06:09:28.877589 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 06:09:31.241204 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 06:09:31.262094 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 06:09:31.262156 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 07:09:33.253755 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 07:09:35.612393 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 07:09:35.617098 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 07:09:35.617137 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 08:09:46.844391 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 08:09:49.254104 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 08:09:49.269918 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 08:09:49.269992 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 09:09:39.033711 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 09:09:41.661299 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 09:09:41.677176 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 09:09:41.677254 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 10:09:33.436798 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 10:09:35.952421 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 10:09:35.957087 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 10:09:35.957139 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 11:09:34.647658 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 11:09:43.783820 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 11:09:43.787848 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 11:09:43.787896 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 12:09:36.059084 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 12:09:38.673466 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 12:09:38.687456 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 12:09:38.687502 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 13:09:35.760907 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 13:09:38.467139 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 13:09:38.468169 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 13:09:38.468216 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 14:09:35.260524 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 14:09:37.849735 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 14:09:37.883189 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 14:09:37.883261 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 15:09:38.856371 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 15:09:41.499357 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 15:09:41.531694 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 15:09:41.531769 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 16:09:40.464181 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 16:09:43.458019 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 16:09:43.490125 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 16:09:43.490178 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 17:09:41.725992 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 17:09:44.653399 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 17:09:44.679930 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 17:09:44.680006 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 18:09:35.336323 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 18:09:38.150539 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 18:09:38.164001 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 18:09:38.164053 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 19:09:39.921077 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 19:09:42.886510 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 19:09:42.919349 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 19:09:42.919425 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 20:09:36.596753 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 20:09:39.215916 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 20:09:39.224097 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 20:09:39.224154 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 21:09:37.358031 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 21:09:40.301806 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 21:09:40.332791 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 21:09:40.332852 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 22:09:33.811595 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 22:09:36.613278 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 22:09:36.633855 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 22:09:36.633935 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0604 23:09:33.579938 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 23:09:35.964085 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 23:09:35.976292 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0604 23:09:35.976339 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 00:09:30.592726 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 00:09:33.308979 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 00:09:33.335436 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 00:09:33.335494 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 01:09:36.592988 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 01:09:39.066184 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 01:09:39.096478 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 01:09:39.096544 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 02:09:27.923470 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 02:09:30.597429 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 02:09:30.604820 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 02:09:30.604866 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 03:09:27.939888 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 03:09:30.501673 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 03:09:30.526288 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 03:09:30.526347 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 04:09:39.547716 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 04:09:42.180902 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 04:09:42.207652 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 04:09:42.207708 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 05:09:28.264922 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 05:09:30.925812 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 05:09:30.927026 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0605 05:09:30.951781 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 05:09:30.951833 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 06:09:31.507983 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 06:09:34.186308 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 06:09:34.189920 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 06:09:34.189961 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 07:09:32.909329 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 07:09:35.411958 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 07:09:35.453421 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 07:09:35.453470 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 08:09:37.900439 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 08:09:40.742208 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 08:09:40.780351 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 08:09:40.780423 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 09:09:35.264401 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 09:09:38.129742 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 09:09:38.160346 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 09:09:38.160401 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 10:09:37.836555 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 10:09:40.867190 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 10:09:40.888620 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 10:09:40.888684 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 11:09:38.832337 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 11:09:41.705044 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 11:09:41.740151 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 11:09:41.740217 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 12:09:37.005645 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 12:09:39.955471 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 12:09:39.975618 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 12:09:39.975687 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 13:09:36.036270 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 13:09:38.757017 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 13:09:38.781281 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 13:09:38.781347 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 14:09:35.961745 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 14:09:38.882120 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 14:09:38.917400 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 14:09:38.917471 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 15:09:39.461843 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 15:09:43.264051 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 15:09:43.372220 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 15:09:43.372304 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 16:09:38.550837 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 16:09:41.721315 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 16:09:41.731781 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 16:09:41.731829 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 17:09:39.801390 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 17:09:42.732807 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 17:09:42.759727 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 17:09:42.759783 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 18:09:34.946277 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 18:09:37.958097 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 18:09:37.984112 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 18:09:37.984268 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 19:09:37.429807 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 19:09:39.924572 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 19:09:40.013722 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 19:09:40.013779 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 20:09:38.586661 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 20:09:41.647089 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 20:09:41.683759 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 20:09:41.683841 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 21:09:37.767659 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 21:09:40.607648 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 21:09:40.637786 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 21:09:40.637867 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 22:09:34.764683 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 22:09:37.049408 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 22:09:37.077591 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 22:09:37.077636 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0605 23:09:32.503772 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 23:09:34.898108 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 23:09:34.900877 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0605 23:09:34.900938 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 00:09:34.141588 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 00:09:36.939769 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 00:09:36.957355 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 00:09:36.957410 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 01:09:33.053470 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 01:09:35.711946 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 01:09:35.742662 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 01:09:35.742724 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 02:09:28.616510 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 02:09:31.281008 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 02:09:31.321460 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 02:09:31.321516 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 03:09:30.037442 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 03:09:32.424293 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 03:09:32.426841 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 03:09:32.426895 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 04:09:36.408401 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 04:09:39.041133 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 04:09:39.055282 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 04:09:39.055334 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 05:09:28.566155 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 05:09:31.322654 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 05:09:31.356835 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 05:09:31.356890 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 06:09:30.883802 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 06:09:33.379431 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 06:09:33.402022 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 06:09:33.402069 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 07:09:34.577567 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 07:09:37.284065 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 07:09:37.314515 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 07:09:37.314584 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 08:09:37.272037 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 08:09:39.490440 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 08:09:39.504494 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 08:09:39.504554 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 09:09:35.690985 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 09:09:38.434038 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 09:09:38.449975 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 09:09:38.450043 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 10:09:38.900084 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 10:09:41.747144 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 10:09:41.773931 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 10:09:41.774004 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 11:09:32.844003 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 11:09:35.630546 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 11:09:35.654959 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 11:09:35.655017 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 12:09:38.101905 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 12:09:41.004153 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 12:09:41.042569 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 12:09:41.042619 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 13:09:39.199220 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 13:09:42.111747 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 13:09:42.129096 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 13:09:42.129155 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 14:09:36.607883 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 14:09:39.506614 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 14:09:39.522411 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 14:09:39.522466 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 15:09:35.359369 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 15:09:38.381016 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 15:09:38.402868 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 15:09:38.402930 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 16:09:35.182355 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 16:09:37.676872 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 16:09:37.702718 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 16:09:37.702785 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 17:09:37.520519 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 17:09:40.198206 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 17:09:40.233783 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 17:09:40.233847 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 18:09:39.437283 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 18:09:41.947543 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 18:09:41.970685 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 18:09:41.970736 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 19:09:36.874274 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 19:09:39.297430 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 19:09:39.322206 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 19:09:39.322286 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 20:09:38.701894 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 20:09:41.266623 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 20:09:41.289861 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 20:09:41.289911 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 21:09:36.795130 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 21:09:39.167855 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 21:09:39.167989 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0606 21:09:39.188704 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 21:09:39.188752 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 22:09:32.972452 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 22:09:35.401168 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 22:09:35.405256 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 22:09:35.405298 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0606 23:09:30.052295 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 23:09:32.535732 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 23:09:32.546558 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0606 23:09:32.546627 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 00:09:33.829600 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 00:09:36.190284 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 00:09:36.190402 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0607 00:09:36.218760 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 00:09:36.218815 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 01:09:31.924456 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 01:09:34.299456 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 01:09:34.304121 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 01:09:34.304176 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 02:09:29.444157 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 02:09:31.805421 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 02:09:31.821241 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 02:09:31.821280 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 03:09:35.337276 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 03:09:37.702184 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 03:09:37.706594 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 03:09:37.706645 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 04:09:40.457192 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 04:09:42.438956 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 04:09:42.448845 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 04:09:42.448907 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 05:09:28.639385 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 05:09:30.999014 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 05:09:31.029384 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 05:09:31.029436 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 06:09:30.826501 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 06:09:33.083360 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 06:09:33.117300 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 06:09:33.117357 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 07:09:35.217098 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 07:09:38.316344 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 07:09:38.317418 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0607 07:09:38.344343 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 07:09:38.344404 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 08:09:37.653374 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 08:09:39.827317 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 08:09:39.839280 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 08:09:39.839334 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 09:09:40.187525 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 09:09:42.870683 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 09:09:42.880391 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 09:09:42.880443 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 10:09:36.882393 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 10:09:39.437254 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 10:09:39.463786 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 10:09:39.463848 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 11:09:36.294901 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 11:09:38.585633 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 11:09:38.590835 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 11:09:38.590894 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 12:09:39.764950 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 12:09:42.476603 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 12:09:42.480351 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 12:09:42.480394 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 13:09:41.004555 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 13:09:43.513521 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 13:09:43.518024 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 13:09:43.518069 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 14:09:42.445109 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 14:09:44.838274 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 14:09:44.845942 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 14:09:44.845986 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 15:09:36.401364 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 15:09:38.710176 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 15:09:38.716653 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 15:09:38.716696 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 16:09:37.209329 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 16:09:39.795325 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 16:09:39.799728 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 16:09:39.799767 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 17:09:37.947546 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 17:09:40.563802 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 17:09:40.569948 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 17:09:40.570015 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 18:09:42.552615 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 18:09:45.132365 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 18:09:45.154176 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 18:09:45.154264 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 19:09:38.423096 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 19:09:41.105545 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 19:09:41.109294 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 19:09:41.109357 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 20:09:46.911912 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 20:09:49.416218 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 20:09:49.422993 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 20:09:49.423051 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 21:09:37.434917 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 21:09:40.788156 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 21:09:40.789572 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 21:09:40.789646 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 22:09:35.671350 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 22:09:38.309551 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 22:09:38.317245 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 22:09:38.317299 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0607 23:09:34.978073 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 23:09:37.700995 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 23:09:37.702479 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0607 23:09:37.702526 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 00:09:35.305712 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 00:09:38.073076 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 00:09:38.074851 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 00:09:38.074908 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 01:09:32.302402 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 01:09:35.293002 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 01:09:35.303966 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 01:09:35.304016 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 02:09:35.891250 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 02:09:39.453519 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 02:09:39.460054 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 02:09:39.460115 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 03:09:26.997287 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 03:09:29.666121 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 03:09:29.687366 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 03:09:29.688014 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 04:09:41.124970 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 04:09:43.776916 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 04:09:43.781886 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 04:09:43.781927 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 05:09:29.414712 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 05:09:32.091562 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 05:09:32.105527 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 05:09:32.105578 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 06:09:29.370868 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 06:09:31.668385 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 06:09:31.677947 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 06:09:31.678012 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 07:09:32.224584 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 07:09:35.242821 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 07:09:35.247196 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 07:09:35.247256 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 08:09:39.352902 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 08:09:42.064116 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 08:09:42.068689 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 08:09:42.068746 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 09:09:39.902199 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 09:09:42.737699 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 09:09:42.755441 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 09:09:42.755509 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 10:09:36.148221 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 10:09:38.726213 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 10:09:38.732503 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 10:09:38.732563 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 11:09:37.187788 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 11:09:39.372040 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 11:09:39.376065 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 11:09:39.376129 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 12:09:37.915211 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 12:09:40.747371 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 12:09:40.747576 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0608 12:09:40.764609 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 12:09:40.764660 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 13:09:39.100281 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 13:09:41.896842 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 13:09:41.915408 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 13:09:41.915477 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 14:09:37.404384 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 14:09:40.265914 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 14:09:40.270154 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 14:09:40.270205 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 15:09:42.504703 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 15:09:45.303221 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 15:09:45.304179 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 15:09:45.304247 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 16:09:36.884099 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 16:09:40.165531 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 16:09:40.178987 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 16:09:40.179078 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 17:09:38.856304 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 17:09:41.775038 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 17:09:41.805107 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 17:09:41.805181 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 18:09:45.872002 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 18:09:48.886520 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 18:09:48.892333 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 18:09:48.892392 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 19:09:38.150411 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 19:09:41.020090 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 19:09:41.024209 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 19:09:41.024276 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 20:09:34.038678 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 20:09:37.406098 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 20:09:37.418121 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 20:09:37.418197 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 21:10:07.447746 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 21:10:10.747159 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 21:10:10.754858 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 21:10:10.754918 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 22:09:45.662611 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 22:09:47.988093 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 22:09:48.000187 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 22:09:48.000249 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0608 23:10:12.155798 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 23:10:14.479285 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 23:10:14.484589 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0608 23:10:14.484637 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 00:09:46.024068 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 00:09:48.685832 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 00:09:48.688202 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 00:09:48.688266 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 01:09:28.995798 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 01:09:31.557261 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 01:09:31.560484 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 01:09:31.560539 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 02:09:32.592592 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 02:09:34.970196 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 02:09:34.974895 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 02:09:34.974941 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 03:09:29.795547 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 03:09:32.502682 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 03:09:32.533566 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 03:09:32.533644 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 04:09:40.171967 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 04:09:42.923027 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 04:09:42.932193 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 04:09:42.932269 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 05:09:28.051496 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 05:09:30.618511 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 05:09:30.624083 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 05:09:30.624145 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 06:09:31.232723 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 06:09:34.073941 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 06:09:34.092303 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 06:09:34.092360 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 07:09:33.759339 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 07:09:36.458935 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 07:09:36.479494 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 07:09:36.479547 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 08:09:35.426270 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 08:09:37.715641 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 08:09:37.733670 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 08:09:37.733731 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 09:09:35.571566 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 09:09:38.137203 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 09:09:38.161973 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 09:09:38.162019 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 10:09:44.782516 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 10:09:47.695223 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 10:09:47.695365 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0609 10:09:47.702365 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 10:09:47.702415 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 11:09:36.395838 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 11:09:39.168824 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 11:09:39.193898 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 11:09:39.193974 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 12:09:39.350054 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 12:09:42.016942 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 12:09:42.028654 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 12:09:42.028744 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 13:09:34.524286 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 13:09:37.224941 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 13:09:37.241374 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 13:09:37.241442 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 14:09:38.287303 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 14:09:40.907124 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 14:09:40.925763 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 14:09:40.925850 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 15:09:44.624817 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 15:09:47.690811 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 15:09:47.698102 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 15:09:47.698168 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 16:09:36.594492 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 16:09:46.966547 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 16:09:46.981992 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 16:09:46.982071 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 17:09:41.937762 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 17:09:44.670024 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 17:09:44.678565 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 17:09:44.678640 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 18:09:38.756243 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 18:09:41.501519 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 18:09:41.518350 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 18:09:41.518422 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 19:09:36.190743 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 19:09:39.311996 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 19:09:39.333443 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 19:09:39.333523 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 20:09:38.851836 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 20:09:42.347977 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 20:09:42.358388 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 20:09:42.358453 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 21:09:32.876541 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 21:09:35.484905 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 21:09:35.484988 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0609 21:09:35.506704 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 21:09:35.506758 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 22:09:36.174187 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 22:09:38.928761 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 22:09:38.960330 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 22:09:38.960379 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0609 23:09:32.228754 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 23:09:34.980836 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 23:09:34.994210 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0609 23:09:34.994271 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 00:09:39.745813 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 00:09:42.531301 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 00:09:42.536659 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 00:09:42.536715 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 01:09:37.850176 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 01:10:16.103935 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 01:10:16.107386 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 01:10:16.107434 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 02:09:39.157302 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 02:09:41.655710 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 02:09:41.678359 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 02:09:41.678407 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 03:09:26.671600 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 03:09:28.922338 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 03:09:28.929337 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 03:09:28.929383 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 04:09:44.534758 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 04:09:47.756173 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 04:09:47.777818 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 04:09:47.777880 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 05:09:48.425767 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 05:09:51.746606 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 05:09:51.746726 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0610 05:09:51.769551 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 05:09:51.769611 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 06:09:36.440143 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 06:09:41.421219 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 06:09:41.425982 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 06:09:41.426044 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 07:09:29.875027 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 07:09:32.922829 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 07:09:32.927301 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 07:09:32.927359 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 08:09:38.957383 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 08:09:42.272933 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 08:09:42.277287 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 08:09:42.277343 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 09:09:39.039126 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 09:09:42.081118 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 09:09:42.095155 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 09:09:42.095257 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 10:09:32.932343 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 10:09:35.917903 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 10:09:35.947983 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 10:09:35.948045 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 11:09:33.332417 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 11:09:36.364950 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 11:09:36.368114 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 11:09:36.368175 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 12:09:33.873209 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 12:09:36.809600 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 12:09:36.825829 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 12:09:36.825887 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 13:09:34.116984 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 13:09:37.211757 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 13:09:37.229688 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 13:09:37.229765 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 14:09:43.420491 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 14:09:50.203496 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 14:09:50.290333 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 14:09:50.290400 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 15:09:41.305156 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 15:09:44.171830 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 15:09:44.196166 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 15:09:44.196247 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 16:09:35.801412 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 16:09:38.606971 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 16:09:38.628258 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 16:09:38.628321 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 17:09:36.053488 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 17:09:38.702136 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 17:09:38.707370 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 17:09:38.707417 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 18:09:37.421409 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 18:09:40.421895 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 18:09:40.449419 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 18:09:40.449478 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 19:09:37.243652 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 19:09:40.253579 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 19:09:40.268965 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 19:09:40.269013 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 20:09:36.329874 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 20:09:38.822768 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 20:09:38.827076 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 20:09:38.827121 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 21:09:37.368752 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 21:09:40.257385 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 21:09:40.274837 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 21:09:40.274904 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 22:09:37.137080 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 22:09:39.755596 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 22:09:39.761528 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 22:09:39.761570 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0610 23:09:31.066169 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 23:09:33.726871 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 23:09:33.737872 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0610 23:09:33.737917 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 00:09:31.326992 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 00:09:34.001971 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 00:09:34.029963 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 00:09:34.030025 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 01:09:31.453317 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 01:09:33.832998 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 01:09:33.846493 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 01:09:33.846549 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 02:09:27.695807 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 02:09:30.345955 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 02:09:30.351738 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 02:09:30.351784 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 03:09:29.853878 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 03:09:32.616962 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 03:09:32.621423 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 03:09:32.621485 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 04:10:01.675403 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 04:10:04.462857 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 04:10:04.471216 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 04:10:04.471302 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 05:09:29.418099 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 05:09:32.338590 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 05:09:32.371671 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 05:09:32.371754 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 06:09:29.533586 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 06:09:32.650892 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 06:09:32.676771 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 06:09:32.676823 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 07:09:36.433055 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 07:09:39.711792 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 07:09:39.728909 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 07:09:39.728992 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 08:09:39.146699 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 08:09:42.440891 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 08:09:42.468782 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 08:09:42.468844 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 09:09:34.166792 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 09:09:37.266728 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 09:09:37.266852 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0611 09:09:37.296679 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 09:09:37.296736 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 10:09:34.362798 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 10:09:37.105835 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 10:09:37.105958 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0611 10:09:37.113041 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 10:09:37.113096 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 11:09:35.572703 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 11:09:49.748082 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 11:09:49.765455 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 11:09:49.765530 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 12:09:34.600178 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 12:09:36.938462 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 12:09:36.942750 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 12:09:36.942804 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 13:09:33.853802 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 13:09:36.307062 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 13:09:36.323961 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 13:09:36.324021 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 14:09:35.384130 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 14:09:37.498709 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 14:09:37.507853 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 14:09:37.507898 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 15:09:35.752664 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 15:09:38.242461 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 15:09:38.264209 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 15:09:38.264302 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 16:09:41.178835 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 16:09:43.281395 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 16:09:43.302532 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 16:09:43.302587 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 17:09:36.679661 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 17:09:39.309016 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 17:09:39.318094 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 17:09:39.318136 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 18:09:41.093076 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 18:09:43.807919 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 18:09:43.823736 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 18:09:43.823840 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 19:09:35.513288 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 19:09:38.192414 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 19:09:38.211040 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 19:09:38.211105 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 20:09:34.279815 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 20:09:37.130695 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 20:09:37.149070 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 20:09:37.149128 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 21:09:33.516911 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 21:09:36.443607 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 21:09:36.462177 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 21:09:36.462237 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 22:09:31.970705 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 22:09:34.341338 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 22:09:34.345968 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 22:09:34.346017 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0611 23:09:28.500725 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 23:09:30.836267 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 23:09:30.846227 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0611 23:09:30.846299 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 00:09:30.530401 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 00:09:32.926329 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 00:09:32.948794 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 00:09:32.948844 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 01:09:28.404106 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 01:09:30.790333 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 01:09:30.790474 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0612 01:09:30.810580 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 01:09:30.810653 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 02:09:26.277966 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 02:09:29.034981 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 02:09:29.048364 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 02:09:29.048424 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 03:09:28.273432 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 03:09:49.025059 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 03:09:49.028009 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 03:09:49.028056 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 04:09:36.610906 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 04:09:39.210484 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 04:09:39.219390 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 04:09:39.219434 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 05:09:28.808375 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 05:09:31.581331 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 05:09:31.628705 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 05:09:31.628778 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 06:09:29.338893 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 06:09:32.122428 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 06:09:32.128909 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 06:09:32.128959 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 07:09:32.286149 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 07:09:35.045091 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 07:09:35.060382 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 07:09:35.060432 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 08:09:36.986102 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 08:09:40.235051 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 08:09:40.251776 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 08:09:40.251847 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 09:09:37.058683 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 09:09:40.027558 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 09:09:40.036585 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 09:09:40.036664 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 10:09:34.400161 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 10:09:37.485221 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 10:09:37.485366 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0612 10:09:37.494117 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 10:09:37.494184 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 11:09:42.756345 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 11:09:45.678486 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 11:09:45.688621 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 11:09:45.688696 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 12:09:34.549340 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 12:09:37.375150 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 12:09:37.397683 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 12:09:37.397783 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 13:09:33.812168 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 13:09:36.835547 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 13:09:36.862996 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 13:09:36.863072 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 14:09:36.986804 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 14:09:39.820282 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 14:09:39.824530 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 14:09:39.824590 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 15:09:35.552316 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 15:09:39.135993 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 15:09:39.143973 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 15:09:39.144042 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 16:09:33.421615 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 16:09:37.647404 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 16:09:37.711508 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 16:09:37.711575 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 17:09:36.277671 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 17:09:39.222788 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 17:09:39.253091 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 17:09:39.253152 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 18:09:34.795573 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 18:09:37.690356 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 18:09:37.704835 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 18:09:37.704896 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 19:09:40.648659 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 19:09:43.449862 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 19:09:43.455442 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 19:09:43.455489 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 20:09:35.996763 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 20:09:38.782444 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 20:09:38.794451 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 20:09:38.794514 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 21:09:33.381937 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 21:09:35.463891 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 21:09:35.480517 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 21:09:35.480564 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 22:09:32.422161 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 22:09:42.723965 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 22:09:42.734479 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 22:09:42.734521 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0612 23:09:35.710397 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 23:09:38.592274 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 23:09:38.599153 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0612 23:09:38.599205 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 00:09:35.112259 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 00:09:38.103431 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 00:09:38.110592 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 00:09:38.110666 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 01:09:30.214907 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 01:09:33.140657 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 01:09:33.175590 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 01:09:33.175662 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 02:09:27.481055 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 02:09:29.963138 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 02:09:29.975872 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 02:09:29.975944 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 03:09:29.388454 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 03:09:32.159185 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 03:09:32.168453 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 03:09:32.168503 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 04:09:38.134493 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 04:09:40.789173 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 04:09:40.799180 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 04:09:40.799238 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 05:09:29.339509 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 05:09:31.769974 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 05:09:31.770076 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0613 05:09:31.772818 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 05:09:31.772861 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 06:09:28.072975 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 06:09:30.852471 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 06:09:30.860319 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 06:09:30.860366 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 07:09:34.035176 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 07:09:36.834606 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 07:09:36.854837 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 07:09:36.854890 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 08:09:36.094906 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 08:09:39.017175 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 08:09:39.029527 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 08:09:39.029592 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 09:09:33.674147 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 09:09:36.473115 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 09:09:36.483186 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 09:09:36.483260 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 10:09:36.274364 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 10:09:39.297693 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 10:09:39.314703 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 10:09:39.314785 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 11:09:38.265085 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 11:09:41.333179 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 11:09:41.344074 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 11:09:41.344151 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 12:09:38.849925 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 12:09:41.838212 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 12:09:41.848757 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 12:09:41.848819 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 13:09:37.167295 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 13:09:40.035382 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 13:09:40.047402 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 13:09:40.047488 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 14:09:32.976347 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 14:09:36.948745 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 14:09:36.997498 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 14:09:36.997563 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 15:09:39.870738 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 15:09:42.392359 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 15:09:42.403576 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 15:09:42.403625 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 16:09:35.606681 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 16:09:38.401512 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 16:09:38.416692 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 16:09:38.416744 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 17:09:38.685204 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 17:09:41.283283 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 17:09:41.295781 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 17:09:41.295836 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 18:09:36.906456 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 18:09:39.496261 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 18:09:39.516093 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 18:09:39.516149 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 19:09:40.326364 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 19:09:43.314832 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 19:09:43.330888 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 19:09:43.330936 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 20:09:37.465901 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 20:09:40.290099 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 20:09:40.312919 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 20:09:40.312978 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 21:09:33.625698 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 21:09:35.991328 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 21:09:35.998071 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 21:09:35.998128 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 22:09:34.344003 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 22:09:37.019562 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 22:09:37.023880 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 22:09:37.023921 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0613 23:09:33.742215 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 23:09:37.193555 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 23:09:37.198555 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0613 23:09:37.198606 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 00:09:32.944648 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 00:09:42.269249 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 00:09:42.288630 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 00:09:42.288678 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 01:09:33.681618 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 01:09:43.586812 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 01:09:43.591631 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 01:09:43.591681 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 02:09:29.899356 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 02:09:32.049721 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 02:09:32.066184 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 02:09:32.066267 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 03:09:32.811165 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 03:09:34.924158 118941 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 03:09:34.933327 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 03:09:34.933372 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 04:09:32.666656 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 04:09:35.320140 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 04:09:35.352185 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 04:09:35.352264 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 05:09:28.168000 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 05:09:30.781198 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 05:09:30.803534 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 05:09:30.803586 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 06:09:30.240545 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 06:09:32.934527 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 06:09:32.935106 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0614 06:09:32.950062 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 06:09:32.950112 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 07:09:31.908681 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 07:09:34.223691 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 07:09:34.251143 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 07:09:34.251207 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 08:09:36.723253 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 08:09:40.237110 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 08:09:40.276132 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 08:09:40.276196 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 09:09:35.538451 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 09:09:38.247467 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 09:09:38.280718 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 09:09:38.280786 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 10:09:35.138053 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 10:09:37.977638 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 10:09:37.999389 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 10:09:37.999444 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 11:09:34.754587 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 11:09:37.585281 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 11:09:37.609264 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 11:09:37.609319 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 12:09:35.675150 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 12:09:38.363639 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 12:09:38.385699 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 12:09:38.385782 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 13:09:37.674779 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 13:09:40.579013 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 13:09:40.596192 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 13:09:40.596259 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 14:09:39.825017 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 14:09:42.930135 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 14:09:42.956856 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 14:09:42.956938 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 15:09:34.999274 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 15:09:38.168709 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 15:09:38.169564 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0614 15:09:38.195377 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 15:09:38.195443 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 16:09:34.252525 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 16:09:37.347589 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 16:09:37.351325 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 16:09:37.351382 118947 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 17:09:39.625600 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 17:09:42.699916 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 17:09:42.714339 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 17:09:42.714390 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 18:09:40.301043 118940 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 18:09:43.402623 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 18:09:43.413151 118946 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 18:09:43.413214 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 19:09:40.662953 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 19:09:43.762398 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 19:09:43.763417 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 19:09:43.763475 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 20:09:38.571791 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 20:09:41.427773 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 20:09:41.445093 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 20:09:41.445158 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 21:09:36.909855 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 21:09:39.341207 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 21:09:39.367364 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 21:09:39.367429 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 22:09:32.926867 118945 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 22:09:35.618721 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 22:09:35.624342 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 22:09:35.624404 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0614 23:09:44.816042 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 23:09:47.509001 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 23:09:47.528024 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0614 23:09:47.528080 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 00:09:38.464959 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 00:09:41.228495 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 00:09:41.229583 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0615 00:09:41.237115 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 00:09:41.237160 118946 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 01:09:36.642519 118944 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 01:09:39.004016 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 01:09:39.039693 118945 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 01:09:39.039762 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 02:09:27.502621 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 02:09:30.801354 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 02:09:30.812692 118944 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 02:09:30.812752 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 03:09:32.335811 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 03:09:34.863432 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 03:09:34.863435 118948 process.cpp:2139] Failed to shutdown socket with fd 8, address 172.16.3.204:22177: Transport endpoint is not connected
+I0615 03:09:34.884357 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 03:09:34.884425 118944 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 04:09:36.190634 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 04:09:38.788242 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 04:09:38.812558 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 04:09:38.812606 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 05:09:27.943379 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 05:09:30.450423 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 05:09:30.476007 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 05:09:30.476066 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 06:09:32.671435 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 06:09:35.254698 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 06:09:35.275854 118947 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 06:09:35.275933 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 07:09:30.608331 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 07:09:33.235674 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 07:09:33.262369 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 07:09:33.262465 118945 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 08:09:32.755714 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 08:09:35.359630 118946 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 08:09:35.378320 118940 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 08:09:35.378402 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 09:09:39.370172 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 09:09:42.314301 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 09:09:42.322042 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 09:09:42.322093 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 10:09:35.012444 118947 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 10:09:37.846742 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 10:09:37.871505 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 10:09:37.871575 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 11:09:49.974529 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 11:09:52.672113 118944 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 11:09:52.688622 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 11:09:52.688699 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 12:09:36.293291 118946 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 12:09:39.488132 118947 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 12:09:39.504777 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 12:09:39.504853 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 13:09:32.944499 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 13:09:36.107214 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 13:09:36.110814 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 13:09:36.110888 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 14:09:37.020370 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 14:09:39.633811 118940 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 14:09:39.669088 118942 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 14:09:39.669143 118942 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 15:09:38.099992 118942 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 15:09:41.923910 118945 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 15:09:41.962980 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 15:09:41.963045 118941 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 16:09:35.206393 118941 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 16:09:39.372346 118943 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 16:09:39.479069 118941 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 16:09:39.479135 118940 executor.cpp:130] Re-registered docker executor on 172.16.3.204
+I0615 17:10:12.518468 118943 exec.cpp:518] Agent exited, but framework has checkpointing enabled. Waiting 1days to reconnect with agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 17:10:15.119854 118942 exec.cpp:282] Received reconnect request from agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 17:10:15.134825 118943 exec.cpp:259] Executor re-registered on agent 3c4ceafa-d86e-4ead-823c-ab6af1ea5d25-S8
+I0615 17:10:15.134871 118943 executor.cpp:130] Re-registered docker executor on 172.16.3.204
